@@ -1,0 +1,289 @@
+{
+    "P001": {
+        "product_id": "P001",
+        "name": "Notebook",
+        "stock_quantity": 48,
+        "min_threshold": 10,
+        "restock_quantity": 60,
+        "priority": "high",
+        "category": "high_volume"
+    },
+    "P002": {
+        "product_id": "P002",
+        "name": "Notebook",
+        "stock_quantity": 50,
+        "min_threshold": 10,
+        "restock_quantity": 60,
+        "priority": "high",
+        "category": "high_volume"
+    },
+    "P003": {
+        "product_id": "P003",
+        "name": "Notebook",
+        "stock_quantity": 50,
+        "min_threshold": 10,
+        "restock_quantity": 60,
+        "priority": "high",
+        "category": "high_volume"
+    },
+    "P004": {
+        "product_id": "P004",
+        "name": "Notebook",
+        "stock_quantity": 140,
+        "min_threshold": 51,
+        "restock_quantity": 60,
+        "priority": "high",
+        "category": "high_volume"
+    },
+    "P005": {
+        "product_id": "P005",
+        "name": "Notebook",
+        "stock_quantity": 50,
+        "min_threshold": 10,
+        "restock_quantity": 60,
+        "priority": "high",
+        "category": "high_volume"
+    },
+    "P006": {
+        "product_id": "P006",
+        "name": "Notebook",
+        "stock_quantity": 50,
+        "min_threshold": 10,
+        "restock_quantity": 49,
+        "priority": "high",
+        "category": "low_volume"
+    },
+    "P007": {
+        "product_id": "P007",
+        "name": "Notebook",
+        "stock_quantity": 50,
+        "min_threshold": 10,
+        "restock_quantity": 50,
+        "priority": "high",
+        "category": "low_volume"
+    },
+    "P010": {
+        "product_id": "P010",
+        "name": "Notebook",
+        "stock_quantity": 50,
+        "min_threshold": 7,
+        "restock_quantity": 50,
+        "priority": "medium",
+        "category": "low_volume"
+    },
+    "P011": {
+        "product_id": "P011",
+        "name": "Notebook",
+        "stock_quantity": 50,
+        "min_threshold": 7,
+        "restock_quantity": 50,
+        "priority": "medium",
+        "category": "low_volume"
+    },
+    "P012": {
+        "product_id": "P012",
+        "name": "Notebook",
+        "stockQuantity": 50,
+        "minThreshold": 7,
+        "restockQuantity": 50,
+        "priority": "medium",
+        "category": "low_volume"
+    },
+    "P099": {
+        "product_id": "P099",
+        "name": "Notebook",
+        "stock_quantity": 50,
+        "min_threshold": 7,
+        "restock_quantity": 50,
+        "priority": "medium",
+        "category": "low_volume"
+    },
+    "P100": {
+        "product_id": "P100",
+        "name": "Notebook",
+        "stock_quantity": 54,
+        "min_threshold": 7,
+        "restock_quantity": 50,
+        "priority": "medium",
+        "category": "low_volume"
+    },
+    "P101": {
+        "product_id": "P101",
+        "name": "Notebook",
+        "stock_quantity": 50,
+        "min_threshold": 7,
+        "restock_quantity": 50,
+        "priority": "medium",
+        "category": "low_volume"
+    },
+    "P999": {
+        "product_id": "P999",
+        "name": "Notebook",
+        "stock_quantity": 50,
+        "min_threshold": 7,
+        "restock_quantity": 50,
+        "priority": "medium",
+        "category": "low_volume"
+    },
+    "p51555": {
+        "product_id": "p51555",
+        "name": "gh",
+        "stock_quantity": 45,
+        "min_threshold": 10,
+        "restock_quantity": 30,
+        "priority": "high",
+        "category": "low_volume"
+    },
+    "l7": {
+        "product_id": "l7",
+        "name": "gh",
+        "stock_quantity": 25,
+        "min_threshold": 10,
+        "restock_quantity": 30,
+        "priority": "high",
+        "category": "low_volume"
+    },
+    "s23U": {
+        "product_id": "s23U",
+        "name": "gh",
+        "stock_quantity": 25,
+        "min_threshold": 10,
+        "restock_quantity": 30,
+        "priority": "high",
+        "category": "low_volume"
+    },
+    "s29U": {
+        "product_id": "s29U",
+        "name": "gh",
+        "stock_quantity": 75,
+        "min_threshold": 10,
+        "restock_quantity": 30,
+        "priority": "high",
+        "category": "low_volume"
+    },
+    "r100": {
+        "product_id": "r100",
+        "name": "Emergencys Flashlight",
+        "stock_quantity": 48,
+        "min_threshold": 30,
+        "restock_quantity": 30,
+        "priority": "high",
+        "category": "low_volume"
+    },
+    "r1001": {
+        "product_id": "r1001",
+        "name": "Emergencys Flashlight",
+        "stock_quantity": 48,
+        "min_threshold": 10,
+        "restock_quantity": 30,
+        "priority": "high",
+        "category": "low_volume"
+    },
+    "P0710": {
+        "product_id": "P0710",
+        "name": "Emergency Kit",
+        "stock_quantity": 35,
+        "min_threshold": 10,
+        "restock_quantity": 20,
+        "priority": "high",
+        "category": "low_volume"
+    },
+    "P0711": {
+        "product_id": "P0711",
+        "name": "Emergency Kit",
+        "stock_quantity": 35,
+        "min_threshold": 10,
+        "restock_quantity": 20,
+        "priority": "high"
+    },
+    "p0612": {
+        "product_id": "p0612",
+        "name": "Emergency Kit",
+        "stock_quantity": 35,
+        "min_threshold": 10,
+        "restock_quantity": 20,
+        "priority": "high",
+        "category": "low_volume"
+    },
+    "p1998": {
+        "product_id": "p1998",
+        "name": "Emergency Kit",
+        "stock_quantity": 35,
+        "min_threshold": 10,
+        "restock_quantity": 20,
+        "priority": "high",
+        "category": "low_volume"
+    },
+    "P991": {
+        "product_id": "P991",
+        "name": "Emergency Kit",
+        "stock_quantity": 35,
+        "min_threshold": 10,
+        "restock_quantity": 20,
+        "priority": "high",
+        "category": "low_volume"
+    },
+    "P997": {
+        "product_id": "P997",
+        "name": "Emergency Kit",
+        "stock_quantity": 35,
+        "min_threshold": 10,
+        "restock_quantity": 20,
+        "priority": "high",
+        "category": "low_volume"
+    },
+    "p8888": {
+        "product_id": "p8888",
+        "name": "Emergency Kit",
+        "stock_quantity": 35,
+        "min_threshold": 10,
+        "restock_quantity": 20,
+        "priority": "high",
+        "category": "low_volume"
+    },
+    "p1111": {
+        "product_id": "p1111",
+        "name": "Emergency Kit",
+        "stock_quantity": 35,
+        "min_threshold": 10,
+        "restock_quantity": 20,
+        "priority": "high",
+        "category": "low_volume"
+    },
+    "p200": {
+        "product_id": "p200",
+        "name": "Emergency Kit",
+        "stock_quantity": 35,
+        "min_threshold": 10,
+        "restock_quantity": 20,
+        "priority": "high",
+        "category": "low_volume"
+    },
+    "p9898": {
+        "product_id": "p9898",
+        "name": "Emergency go",
+        "stock_quantity": 22,
+        "min_threshold": 10,
+        "restock_quantity": 20,
+        "priority": "high",
+        "category": "low_volume"
+    },
+    "p1204": {
+        "product_id": "p1204",
+        "name": "Emergency exit",
+        "stock_quantity": 38,
+        "min_threshold": 10,
+        "restock_quantity": 20,
+        "priority": "high",
+        "category": "low_volume"
+    },
+    "55": {
+        "product_id": "55",
+        "name": "Emergency exit",
+        "stock_quantity": 8,
+        "min_threshold": 10,
+        "restock_quantity": 20,
+        "priority": "high",
+        "category": "low_volume"
+    }
+}
