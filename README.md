@@ -8,4 +8,4 @@ Structure of content
 
 *API Endpoints
 
-Note- Hi all I used the my previous company owned github account and My newly created existing account for this Assignment throgh the Github-Desktop app.
+Note- Hi all I used the my previous company owned github account and My newly created existing account for this Assignment through the Github-Desktop app.
